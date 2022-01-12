@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ligalbert a motivated professional sharing his work witht the world 
+- 👋 Hi, I’m @ligalbert a motivated professional sharing his work with the world 
 - 👀 I’m interested in analystics 
 - 🌱 I’m currently learning data science and python 
 - 💞️ I’m looking to collaborate on soccer analystics and real state analystics
